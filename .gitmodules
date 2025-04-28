@@ -1,0 +1,9 @@
+[submodule "PRIVATE/CYPHER_OS"]
+	path = PRIVATE/CYPHER_OS
+	url = git@github.com:CypherWhisperer/CYPHER_OS.git
+[submodule "PRIVATE/PROJECT_HADASSAH"]
+	path = PRIVATE/PROJECT_HADASSAH
+	url = git@github.com:CypherWhisperer/PROJECT_HADASSAH.git
+[submodule "PRIVATE/PROJECT_X"]
+	path = PRIVATE/PROJECT_X
+	url = git@github.com:CypherWhisperer/PROJECT_X.git
