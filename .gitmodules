@@ -7,3 +7,15 @@
 [submodule "PRIVATE/PROJECT_X"]
 	path = PRIVATE/PROJECT_X
 	url = git@github.com:CypherWhisperer/PROJECT_X.git
+[submodule "PRIVATE/LINUX"]
+	path = PRIVATE/LINUX
+	url = git@github.com:CypherWhisperer/LINUX.git
+[submodule "PUBLIC/LINUX"]
+	path = PUBLIC/LINUX
+	url = git@github.com:CypherWhisperer/LINUX.git
+[submodule "PUBLIC/PERSONAL"]
+	path = PUBLIC/PERSONAL
+	url = git@github.com:CypherWhisperer/PERSONAL.git
+[submodule "PUBLIC/UNI"]
+	path = PUBLIC/UNI
+	url = git@github.com:CypherWhisperer/UNI.git
