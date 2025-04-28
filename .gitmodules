@@ -22,3 +22,6 @@
 [submodule "PUBLIC/WEB_DEV"]
 	path = PUBLIC/WEB_DEV
 	url = git@github.com:CypherWhisperer/WEB_DEV.git
+[submodule "PRIVATE/MY_BIBLE"]
+	path = PRIVATE/MY_BIBLE
+	url = git@github.com:CypherWhisperer/MY_BIBLE.git
