@@ -19,3 +19,6 @@
 [submodule "PUBLIC/UNI"]
 	path = PUBLIC/UNI
 	url = git@github.com:CypherWhisperer/UNI.git
+[submodule "PUBLIC/WEB_DEV"]
+	path = PUBLIC/WEB_DEV
+	url = git@github.com:CypherWhisperer/WEB_DEV.git
